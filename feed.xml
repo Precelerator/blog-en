@@ -3,7 +3,7 @@
     <title>Precelerator English Blog</title>
     <link href="https://precelerator.github.io/blog-en/feed.xml" rel="self" />
     <link href="https://precelerator.github.io/blog-en" />
-    <updated>2020-10-25T18:00:03+01:00</updated>
+    <updated>2020-10-25T21:17:06+01:00</updated>
     <author>
         <name>Fabio Maienschein</name>
     </author>
@@ -145,7 +145,7 @@
             <category term="Tools"/>
             <category term="Review"/>
 
-        <updated>2020-10-25T18:00:03+01:00</updated>
+        <updated>2020-10-25T21:17:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/4/Figma.png" alt="" />
@@ -171,6 +171,7 @@
 <p>Since Figma is web-based, you will be taken directly to the application, where after some setup questions a short introduction is waiting for you:</p>
 <figure class="post__image"><img loading="lazy"  src="https://precelerator.github.io/blog-en/media/posts/4/Figma-Intro.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xs.png 300w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-sm.png 480w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-md.png 768w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xl.png 1200w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xxl.png 1600w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xxxl.png 2560w"  alt="Figma Intro" width="554" height="322"></figure>
 <p>If you prefer to work with the desktop app, you can find it in the web app via the menu -&gt; "Download desktop app". For inspiration, it is worth taking a look at the example projects found in the "Recent" tab of the desktop app in the menu ("Prototyping in Figma", "Figma Basics", "Wireframing in Figma").</p>
+<p>In order to collaborate with your team, <a href="https://help.figma.com/hc/en-us/articles/360039481034-Invite-a-Viewer-or-Editor-to-a-team#Invite_an_Editor" target="_blank" rel="noopener noreferrer">invite other students</a> to your project. For more information on how Figma allows for collaborative editing and commenting, check out their <a href="https://www.figma.com/collaboration/" target="_blank" rel="noopener noreferrer">Collaboration page!</a></p>
 <h4>Features</h4>
 <div>Even in the Free Plan, Figma allows you to invite project members to join projects and collaborate with them. A key feature of Figma is the ability to work together on a design project, regardless of the operating system. This allows all stakeholders to edit and comment on the project in order to develop a design together as a team.</div>
 <div> </div>
