@@ -3,7 +3,7 @@
     <title>Precelerator English Blog</title>
     <link href="https://precelerator.github.io/blog-en/feed.xml" rel="self" />
     <link href="https://precelerator.github.io/blog-en" />
-    <updated>2020-10-13T13:14:18+02:00</updated>
+    <updated>2020-10-25T17:49:30+01:00</updated>
     <author>
         <name>Fabio Maienschein</name>
     </author>
@@ -151,7 +151,7 @@
         <id>https://precelerator.github.io/blog-en/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html</id>
             <category term="Tools"/>
 
-        <updated>2020-10-13T11:22:45+02:00</updated>
+        <updated>2020-10-25T17:49:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/4/Figma.png" alt="" />
@@ -173,7 +173,8 @@
 <div>To get a first impression of Figma's approach, it is worth taking a look at the following teaser (1:35):</div>
 <figure class="post__video"><iframe loading="lazy" width="640" height="360" src="https://player.vimeo.com/video/365881491?color=5551ff" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></figure>
 <h4>Figma: Getting Started</h4>
-<p>In order to get started with Figma, head over to  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">https://www.figma.com/</a> and create your account. Since Figma is web-based, you will be taken directly to the application, where after some setup questions a short introduction is waiting for you:</p>
+<p>In order to get started with Figma, head over to  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">https://www.figma.com/</a> and create your account. Students and educators get benefits when signing up for Figma: using your university email adress you're able to obtain the <a href="https://www.figma.com/education/" target="_blank" rel="noopener noreferrer">Figma Education</a> plan (unlimited projects and unlimited editors for up to two years) if you apply or register using <a href="https://www.figma.com/education/apply" target="_blank" rel="noopener noreferrer">this link</a>.</p>
+<p>Since Figma is web-based, you will be taken directly to the application, where after some setup questions a short introduction is waiting for you:</p>
 <figure class="post__image"><img loading="lazy"  src="https://precelerator.github.io/blog-en/media/posts/4/Figma-Intro.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xs.png 300w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-sm.png 480w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-md.png 768w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xl.png 1200w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xxl.png 1600w ,https://precelerator.github.io/blog-en/media/posts/4/responsive/Figma-Intro-xxxl.png 2560w"  alt="Figma Intro" width="554" height="322"></figure>
 <p>If you prefer to work with the desktop app, you can find it in the web app via the menu -&gt; "Download desktop app". For inspiration, it is worth taking a look at the example projects found in the "Recent" tab of the desktop app in the menu ("Prototyping in Figma", "Figma Basics", "Wireframing in Figma").</p>
 <h4>Features</h4>
@@ -189,7 +190,7 @@
 <td style="width: 50%;">Scroll up/down</td>
 </tr>
 <tr>
-<td style="width: 50%;">Ctrl+ Scrollen (Maus)</td>
+<td style="width: 50%;">Ctrl+ Scrollen (mouse)</td>
 <td style="width: 50%;">Zoom in/out (zooms towards where the mouse hovers)</td>
 </tr>
 <tr>
