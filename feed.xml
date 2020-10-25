@@ -3,7 +3,7 @@
     <title>Precelerator English Blog</title>
     <link href="https://precelerator.github.io/blog-en/feed.xml" rel="self" />
     <link href="https://precelerator.github.io/blog-en" />
-    <updated>2020-10-25T17:49:30+01:00</updated>
+    <updated>2020-10-25T18:00:03+01:00</updated>
     <author>
         <name>Fabio Maienschein</name>
     </author>
@@ -57,7 +57,7 @@
         <link href="https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html"/>
         <id>https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html</id>
 
-        <updated>2020-10-13T11:34:31+02:00</updated>
+        <updated>2020-10-25T17:59:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/8/Screenshot-Website.png" alt="" />
@@ -70,19 +70,12 @@
                     <img src="https://precelerator.github.io/blog-en/media/posts/8/Screenshot-Website.png" alt="" />
                 <p>With the launch of the new website and this blog, the Precelerator, the new offer of the Strascheg Center for Entrepreneurship at HM digital, starts the new semester. Here you can find out for whom the new Precelerator is intended and which Precelerator offers will be available soon.</p>
 
-<p>Vom Antrag zum Projektstart</p>
-<p>- gemeinsamer Antrag von HM und SCE im Rahmen der Ausschreibung Startup@FH</p>
-<p>- Förderung durch das BMBF (Verlinkung der Pressemitteilung)</p>
-<p>- Projektstart im 2. Halbjahr 2020, Launch jetzt zum Start des Wintersemesters</p>
-<p>Projektvorhaben</p>
-<p>Worum geht's im Precelerator/ an wen richtet er sich?</p>
-<p>Der Precelerator im Kontext von Corona</p>
-<p>Was bieten wir jetzt an Angeboten, wo corona-bedingt alles anders ist?</p>
+<p>The <a href="precelerator.de" target="_blank" rel="noopener noreferrer">Precelerator</a> is a brand new initiative at the Strascheg Center for Entrepreneurship (SCE) targeted at makers and innovators that don't necessarily aim for founding their own startup, but instead are looking for help and resources to get their project off the ground. Providing both technical staff as well as mentors and coaches through the SCE, the Precelerator is the ideal place to connect with others and to work on innovative ideas and initiatives.</p>
+<p>If you want to learn more, keep your eyes out for our digital launch in November, we're excited to share with you what we have been working on over the last months!</p>
 <hr>
 <h3>Call To Action</h3>
-<div>Du bist Student/Lehrkraft/Mitarbeiter an der HM und willst Teil des entstehenden Precelerators werden? Wir freuen uns über jegliche Fragen und Anregungen.</div>
+<div>Interested in joining the precelerator as a member or collaborator? We're always open for project suggestions, get in touch using our email <a href="mailto:precelerator@sce.de" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">precelerator@sce.de</a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> and we'll get back to you as soon as possible.</span></div>
 <div> </div>
-<div>Schreib uns eine Mail an <a href="mailto:precelerator@sce.de">precelerator@sce.de</a> und wir melden uns schnellstmöglich bei dir zurück.<a href="https://precelerator.github.io/" target="_blank" rel="noopener noreferrer"></a></div>
             ]]>
         </content>
     </entry>
@@ -150,18 +143,19 @@
         <link href="https://precelerator.github.io/blog-en/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html"/>
         <id>https://precelerator.github.io/blog-en/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html</id>
             <category term="Tools"/>
+            <category term="Review"/>
 
-        <updated>2020-10-25T17:49:30+01:00</updated>
+        <updated>2020-10-25T18:00:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/4/Figma.png" alt="" />
-                    Traditionally, there is a gap between the design and development of applications and websites: while designers often use image editing software such as Photoshop to provide static layouts and design templates, developers usually work with code in order to create clickable and interactive prototypes. To bridge&hellip;
+                    Traditionally, there has been a gap between the design and development of applications and websites: while designers often use image editing software such as Photoshop to provide static layouts and design templates, developers usually work with code in order to create clickable and interactive prototypes. To&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://precelerator.github.io/blog-en/media/posts/4/Figma.png" alt="" />
-                <div>Traditionally, there is a gap between the design and development of applications and websites: while designers often use image editing software such as Photoshop to provide static layouts and design templates, developers usually work with code in order to create clickable and interactive prototypes.</div>
+                <div>Traditionally, there has been a gap between the design and development of applications and websites: while designers often use image editing software such as Photoshop to provide static layouts and design templates, developers usually work with code in order to create clickable and interactive prototypes.</div>
 <div> </div>
 <div>To bridge this gap, a variety of advanced design tools have emerged in recent years to make the design process more interactive, collaborative and closer to the development process. Leading Players in this area are <a href="https://www.sketch.com/" target="_blank" rel="noopener noreferrer" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Sketch</a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (OS X), </span><a href="https://www.adobe.com/de/products/xd.html" target="_blank" rel="noopener noreferrer" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Adobe Xd</a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (MacOS/ Windows) and the web-based tool </span><a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Figma</a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> that this blog post is gonna dive in deeper into.</span></div>
 <h4>What is Figma?</h4>
