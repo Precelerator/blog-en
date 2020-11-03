@@ -3,7 +3,7 @@
     <title>Precelerator English Blog</title>
     <link href="https://precelerator.github.io/blog-en/feed.xml" rel="self" />
     <link href="https://precelerator.github.io/blog-en" />
-    <updated>2020-10-25T21:17:06+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Fabio Maienschein</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://precelerator.github.io/blog-en/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html"/>
         <id>https://precelerator.github.io/blog-en/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html</id>
 
-        <updated>2020-10-13T11:34:20+02:00</updated>
+        <updated>2020-11-03T10:30:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/9/AWS-Educate-Starter-2.png" alt="" />
@@ -57,7 +57,7 @@
         <link href="https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html"/>
         <id>https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html</id>
 
-        <updated>2020-10-25T17:59:21+01:00</updated>
+        <updated>2020-11-03T10:30:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/8/Screenshot-Website.png" alt="" />
@@ -89,7 +89,7 @@
             <category term="Tools"/>
             <category term="No-Code"/>
 
-        <updated>2020-10-13T11:51:12+02:00</updated>
+        <updated>2020-11-03T10:30:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/7/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="" />
@@ -140,12 +140,12 @@
         <author>
             <name>Fabio Maienschein</name>
         </author>
-        <link href="https://precelerator.github.io/blog-en/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html"/>
-        <id>https://precelerator.github.io/blog-en/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html</id>
+        <link href="https://precelerator.github.io/blog-en/design-tool-figma.html"/>
+        <id>https://precelerator.github.io/blog-en/design-tool-figma.html</id>
             <category term="Tools"/>
             <category term="Review"/>
 
-        <updated>2020-10-25T21:17:06+01:00</updated>
+        <updated>2020-11-03T10:30:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/4/Figma.png" alt="" />
@@ -185,7 +185,7 @@
 <td style="width: 50%;">Scroll up/down</td>
 </tr>
 <tr>
-<td style="width: 50%;">Ctrl+ Scrollen (mouse)</td>
+<td style="width: 50%;">Ctrl+ scroll (mouse)</td>
 <td style="width: 50%;">Zoom in/out (zooms towards where the mouse hovers)</td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-10-13T12:58:32+02:00</updated>
+        <updated>2020-11-03T10:30:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/3/glide.png" alt="" />
@@ -270,7 +270,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-10-13T13:14:18+02:00</updated>
+        <updated>2020-11-03T10:30:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/2/bubble.png" alt="" />
@@ -287,6 +287,9 @@
 <h4><span style="font-weight: 400;">Principles of Bubble</span></h4>
 <p>The user interface of bubble applications can be assembled from a library of interface components (buttons, text fields, etc.) by drag and drop. So-called workflows regulate the processes that should be executed by the application during user interactions. </p>
 <h4>Learn how to use Bubble</h4>
+<p>Bubble offers a lot of resources to help you get started. Go to <a href="https://bubble.io/home" target="_blank" rel="noopener noreferrer">Bubble.io</a> to create your own account and get started. There's 10 quick tutorials that show you step by step to create little applications such as a shopping list, iTunes song search and an image gallery that users can upload images to.</p>
+<p>If you want to work on a Bubble app as a team, go to Settings -&gt; General -&gt; Application rights and change the dropdown from "Private" to "Everyone can edit". Now if you copy the link of your Bubble app (while it's open in the editor), you can share it with your team so you can all edit the same application!</p>
+<p>For further resources to learn more about Bubble, check out the following links: </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -334,9 +337,9 @@
 </table>
 <p>More information in regards to pricing over at <a href="https://bubble.io/pricing"><span style="font-weight: 400;">https://bubble.io/pricing</span></a></p>
 <h4>Review - Bubble, the right platform for your MVP?</h4>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/4W-LENVu8uc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/4W-LENVu8uc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
 <h4>In-depth Guide for Bubble</h4>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/6OKVj1A9OcY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/6OKVj1A9OcY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
 <hr>
 <h3>Call To Action</h3>
 <div>You are interested in launching your own project and have questions or need support? We at Precelerator, the new offer for tinkerers, coders and future entrepreneurs at SCE, will help you to get your project on the right track!</div>
@@ -356,7 +359,7 @@
             <category term="Project"/>
             <category term="Code"/>
 
-        <updated>2020-10-13T11:31:27+02:00</updated>
+        <updated>2020-11-03T10:30:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/1/garrhet-sampson-CmF_5GYc6c0-unsplash.jpg" alt="" />
@@ -370,7 +373,7 @@
 <h4><span style="font-weight: 400;">1) Free tools for design and development</span></h4>
 <p>The following free tools are especially popular within designers and developers:</p>
 <p class="msg msg--info"><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Visual Studio Code</a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">: The open source code editor from Microsoft, which is a general-purpose weapon for development projects due to its simple, but powerful user interface and can be adapted for all kinds of use-cases with its rich plugin ecosystem.</span></p>
-<p class="msg msg--info"><a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">Figma</a>: A modern design tool that allows the design of user interface mockups and provides clickable prototypes that can be shared with a link. Figma also emphasizes collaborative features that facilitate a common design and review process. <a href="https://precelerator.github.io/blog-en/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html" target="_blank" rel="noopener noreferrer">Check out this blog post</a> to help you get started with Figma.</p>
+<p class="msg msg--info"><a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">Figma</a>: A modern design tool that allows the design of user interface mockups and provides clickable prototypes that can be shared with a link. Figma also emphasizes collaborative features that facilitate a common design and review process. <a href="https://precelerator.github.io/blog-en/design-tool-figma.html" target="_blank" rel="noopener noreferrer">Check out this blog post</a> to help you get started with Figma.</p>
 <p class="msg msg--info"><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a>: Git has become the most popular versioning and source code management tool in recent years and is essential for all coding projects. Hosted source control platforms like <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub </a>und <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">GitLab </a>allow you to store source code publicly (or privately), and to host it directly (<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>) or as the starting point for Continuous Integration/ Continuous Deployment (<a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">GitHub Actions</a>).<br>The HM also offers its students a self-hosted <a href="https://gitlab.lrz.de/users/sign_in" target="_blank" rel="noopener noreferrer">GitLab instance</a>, that all students with HM credentials (@hm.edu) can use.</p>
 <h4><span style="font-weight: 400;">2) Free offers for hosting and cloud infrastructure</span></h4>
 <p><span style="font-weight: 400;">The following providers are particularly recommended due to their generous free plans for hosting smaller projects and websites:<br></span></p>
