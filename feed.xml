@@ -10,6 +10,158 @@
     <id>https://precelerator.github.io/blog-en</id>
 
     <entry>
+        <title>eBridge: Digital Prototyping Tools</title>
+        <author>
+            <name>Fabio Maienschein</name>
+        </author>
+        <link href="https://precelerator.github.io/blog-en/ebridge.html"/>
+        <id>https://precelerator.github.io/blog-en/ebridge.html</id>
+            <category term="Tools"/>
+            <category term="No-Code"/>
+
+        <updated>2021-03-02T13:13:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://precelerator.github.io/blog-en/media/posts/10/eBridge-Header.jpg" alt="" />
+                    Here's all the tools I mentioned during the eBridge Digital Prototyping Session from 02.03.2021. Overwhelmed by the amount of tools? Don't be! These are all just options and you get to pick and choose whatever suits your needs. Usually you at most ever need one&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://precelerator.github.io/blog-en/media/posts/10/eBridge-Header.jpg" alt="" />
+                <p>Here's all the tools I mentioned during the eBridge Digital Prototyping Session from 02.03.2021.</p>
+<p><em>Overwhelmed by the amount of tools? Don't be! These are all just options and you get to pick and choose whatever suits your needs. Usually you at most ever need one tool per category, and maybe Figma or its alternatives already get everything done that you want to achieve (it comes with a great <a href="https://www.figma.com/community" target="_blank" rel="noopener noreferrer">community</a>, a <a href="https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA" target="_blank" rel="noopener noreferrer">helpful Youtube Channel</a>, a <a href="https://www.figma.com/pricing/" target="_blank" rel="noopener noreferrer">free plan</a>, <a href="https://www.figma.com/education/" target="_blank" rel="noopener noreferrer">free pro features for students</a>, an extensive <a href="https://www.figma.com/community/explore?tab=plugins&amp;sort=installs" target="_blank" rel="noopener noreferrer">plugin ecosystem</a> and a whole lot more). Have fun!</em></p>
+<h3>Static UI Design</h3>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Figma</td>
+<td style="width: 50%;"><a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">https://www.figma.com/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Sketch</td>
+<td style="width: 50%;"><a href="https://www.sketch.com/" target="_blank" rel="noopener noreferrer">https://www.sketch.com/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Adobe Xd</td>
+<td style="width: 50%;"><a href="https://www.adobe.com/de/products/xd.html" target="_blank" rel="noopener noreferrer">https://www.adobe.com/de/products/xd.html</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Invision Studio</td>
+<td style="width: 50%;"><a href="https://www.invisionapp.com/studio" target="_blank" rel="noopener noreferrer">https://www.invisionapp.com/studio</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Tools to makestatic designs more dynamic</h3>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Framer/ Framer X</td>
+<td style="width: 50%;"><a href="https://www.framer.com/" target="_blank" rel="noopener noreferrer">https://www.framer.com/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Bravo Studio</td>
+<td style="width: 50%;"><a href="https://www.bravostudio.app/" target="_blank" rel="noopener noreferrer">https://www.bravostudio.app/</a></td>
+</tr>
+</tbody>
+</table>
+<p>Both these tools offer Figma imports, so you could start designing in Figma and later make your prototype more dynamic by importing your screens into Framer or Bravo Studio.</p>
+<h3>Prototyping Tools</h3>
+<p>These tools focus on dynamic prototypes with advanced capabilities like animations etc. They also offer prebuilt components that can be drag and dropped to rapidly create visually appealing prototypes. There are so many of these that I can't list them all, but you can find a nice overview on this site: <a href="https://uxtools.co/tools/prototyping" target="_blank" rel="noopener noreferrer">https://uxtools.co/tools/prototyping</a></p>
+<p><a href="https://www.axure.com/" target="_blank" rel="noopener noreferrer"> https://www.axure.com/</a></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Marvel</td>
+<td style="width: 50%;"><a href="https://marvelapp.com/" target="_blank" rel="noopener noreferrer">https://marvelapp.com/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">UXPin</td>
+<td style="width: 50%;"><a href="https://www.uxpin.com/" target="_blank" rel="noopener noreferrer">https://www.uxpin.com/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Proto.io</td>
+<td style="width: 50%;"><a href="https://proto.io/" target="_blank" rel="noopener noreferrer">https://proto.io/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Protopie</td>
+<td style="width: 50%;"><a href="https://www.protopie.io/" target="_blank" rel="noopener noreferrer">https://www.protopie.io/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Axure</td>
+<td style="width: 50%;"> </td>
+</tr>
+</tbody>
+</table>
+<h3>No-Code App Builders</h3>
+<p>These are similiar to web site builders like Wix, Weebly, Webflow etc., only that instead of sites you can build out fully functioning apps. This can be great for simple apps that only store and display data, but since you're "programming" using the visual editor of the app builder, you can quickly run into limitations of the builder itself. It's worth to take a look into the app examples advertised by the app builders to get a better feeling of what they can (and can't do) in terms of features. I'd encourage you to think through your ideal app first so that you don't end up sacrificing your initial vision by staying within the boundaries of what these no-code app builders can offer.</p>
+<p><a href="https://www.adalo.com/" target="_blank" rel="noopener noreferrer"> https://www.adalo.com/</a></p>
+<table style="border-collapse: collapse; width: 100%; height: 150px;" border="1">
+<tbody>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Glideapps</td>
+<td style="width: 50%; height: 50px;"><a href="https://www.glideapps.com/" target="_blank" rel="noopener noreferrer">https://www.glideapps.com/</a></td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Adalo</td>
+<td style="width: 50%; height: 50px;"> </td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Bubble.io</td>
+<td style="width: 50%; height: 50px;"><a href="https://bubble.io/" target="_blank" rel="noopener noreferrer">https://bubble.io/</a></td>
+</tr>
+</tbody>
+</table>
+<h3>3D-Design</h3>
+<p>This is a bit of a niche, but depending on the product this can be a very impressive demonstration and allow for a whole new understanding of a product through a 3D representation. Traditionally something you'd approach using CAD-tools, there's new tools in the space that make 3D-design more approachable even for non-technical people.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Spline.design</td>
+<td style="width: 50%;"><a href="http://spline.design/" target="_blank" rel="noopener noreferrer">http://spline.design/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Vectary</td>
+<td style="width: 50%;"><a href="https://www.vectary.com/" target="_blank" rel="noopener noreferrer">https://www.vectary.com/</a></td>
+</tr>
+</tbody>
+</table>
+<h3>User Testing</h3>
+<p>While in person testing is preferable to observe users reactions and to interview them in a face-to-face environment, there are ways to test digital prototypes with remote testers:</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Maze.design</td>
+<td style="width: 50%;"><a href="https://maze.design/figma/" target="_blank" rel="noopener noreferrer">https://maze.design/figma/</a></td>
+</tr>
+<tr>
+<td style="width: 50%;">Quant-UX</td>
+<td style="width: 50%;"><a href="https://www.quant-ux.com/" target="_blank" rel="noopener noreferrer">https://www.quant-ux.com/</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Landing Pages</h3>
+<p>It has gotten much easier to build up a digital presence over the last years. Here's some tools/ services you can take a look at if you want to bring your product/ startup page online.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">Simple Landing Pages</td>
+<td style="width: 33.3333%;"><a href="wix.com" target="_blank" rel="noopener noreferrer">Wix </a>(general purpose)<br><a href="https://www.launchaco.com/" target="_blank" rel="noopener noreferrer">Launchaco </a>(sectioned startup page)<br><a href="https://carrd.co/" target="_blank" rel="noopener noreferrer">Carrd </a>(simple one pager)</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">More Complete Sites</td>
+<td style="width: 33.3333%;"><a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">Wordpress </a>+ <a href="https://elementor.com/" target="_blank" rel="noopener noreferrer">Elementor</a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Advanced Visual Editor</td>
+<td style="width: 33.3333%;"><a href="https://webflow.com/" target="_blank" rel="noopener noreferrer">Webflow</a></td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>AWS Educate: Cloud-Services for Students with 100$ in free AWS credits</title>
         <author>
             <name>Fabio Maienschein</name>
@@ -17,7 +169,7 @@
         <link href="https://precelerator.github.io/blog-en/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html"/>
         <id>https://precelerator.github.io/blog-en/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html</id>
 
-        <updated>2020-11-03T10:30:30+01:00</updated>
+        <updated>2021-03-02T13:13:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/9/AWS-Educate-Starter-2.png" alt="" />
@@ -57,7 +209,7 @@
         <link href="https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html"/>
         <id>https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html</id>
 
-        <updated>2020-11-03T10:30:30+01:00</updated>
+        <updated>2021-03-02T13:13:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/8/Screenshot-Website.png" alt="" />
@@ -89,7 +241,7 @@
             <category term="Tools"/>
             <category term="No-Code"/>
 
-        <updated>2020-11-03T10:30:30+01:00</updated>
+        <updated>2021-03-02T13:13:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/7/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="" />
@@ -145,7 +297,7 @@
             <category term="Tools"/>
             <category term="Review"/>
 
-        <updated>2020-11-03T10:30:30+01:00</updated>
+        <updated>2021-03-02T13:13:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/4/Figma.png" alt="" />
@@ -230,7 +382,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-11-03T10:30:30+01:00</updated>
+        <updated>2021-03-02T13:13:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/3/glide.png" alt="" />
@@ -270,7 +422,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-11-03T10:30:30+01:00</updated>
+        <updated>2021-03-02T13:13:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/2/bubble.png" alt="" />
@@ -359,7 +511,7 @@
             <category term="Project"/>
             <category term="Code"/>
 
-        <updated>2020-11-03T10:30:30+01:00</updated>
+        <updated>2021-03-02T13:13:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/1/garrhet-sampson-CmF_5GYc6c0-unsplash.jpg" alt="" />
