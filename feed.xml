@@ -19,7 +19,7 @@
             <category term="Tools"/>
             <category term="No-Code"/>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/10/eBridge-Header.jpg" alt="" />
@@ -167,7 +167,7 @@
         <link href="https://precelerator.github.io/blog-en/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html"/>
         <id>https://precelerator.github.io/blog-en/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html</id>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/9/AWS-Educate-Starter-2.png" alt="" />
@@ -207,7 +207,7 @@
         <link href="https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html"/>
         <id>https://precelerator.github.io/blog-en/precelerator-goes-digital-launch-und-naechste-schritte.html</id>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/8/Screenshot-Website.png" alt="" />
@@ -239,7 +239,7 @@
             <category term="Tools"/>
             <category term="No-Code"/>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/7/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="" />
@@ -295,7 +295,7 @@
             <category term="Tools"/>
             <category term="Review"/>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/4/Figma.png" alt="" />
@@ -326,6 +326,53 @@
 <div>Even in the Free Plan, Figma allows you to invite project members to join projects and collaborate with them. A key feature of Figma is the ability to work together on a design project, regardless of the operating system. This allows all stakeholders to edit and comment on the project in order to develop a design together as a team.</div>
 <div> </div>
 <div>Created designs can be made available to others as a clickable prototype via the "Share" feature and can be tried out via a shareable link or even mobile via the "Figma Mirror" app.</div>
+<div>
+<p>Figma offers a lot of advanced features that allow for a better structure for larger projects and that can be highly beneficial for a more efficient workflow within Figma. I'd recommend taking a look at the relevant tutorials and in-depth Office Hours that Figma has on their Youtube channel. You can find a selection of the most recent ones in the upcoming table: </p>
+<table style="border-collapse: collapse; width: 104.603%; height: 487px;" border="1">
+<tbody>
+<tr style="height: 50px;">
+<td style="width: 33.3333%; height: 50px;">Auto Layout</td>
+<td style="width: 33.3333%; height: 50px;"><a href="https://www.youtube.com/watch?v=TyaGpGDFczw&amp;list=PLXDU_eVOJTx5m3U10Q_iZEVn4LjcO3fsK&amp;index=3" target="_blank" rel="noopener noreferrer">Tutorial</a></td>
+<td style="width: 37.9358%; height: 50px;"><a href="https://www.youtube.com/watch?v=u4K2m-3MmQQ" target="_blank" rel="noopener noreferrer">Office Hour</a></td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 33.3333%; height: 50px;">Constraints</td>
+<td style="width: 33.3333%; height: 50px;"><a href="https://www.youtube.com/watch?v=LHY9cm_2zwU" target="_blank" rel="noopener noreferrer">Tutorial</a></td>
+<td style="width: 37.9358%; height: 50px;">-</td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 33.3333%; height: 50px;">Komponenten</td>
+<td style="width: 33.3333%; height: 50px;"><a href="https://www.youtube.com/watch?v=k74IrUNaJVk" target="_blank" rel="noopener noreferrer">Tutorial</a></td>
+<td style="width: 37.9358%; height: 50px;"><a href="https://www.youtube.com/watch?v=fNQRXierLhQ" target="_blank" rel="noopener noreferrer">Office Hour</a></td>
+</tr>
+<tr style="height: 79px;">
+<td style="width: 33.3333%; height: 79px;">Organisation von Komponenten</td>
+<td style="width: 33.3333%; height: 79px;"><a href="https://www.youtube.com/watch?v=FFXNLmt-JY4" target="_blank" rel="noopener noreferrer">Tutorial</a></td>
+<td style="width: 37.9358%; height: 79px;">-</td>
+</tr>
+<tr style="height: 79px;">
+<td style="width: 33.3333%; height: 79px;">Varianten (von Komponenten)</td>
+<td style="width: 33.3333%; height: 79px;"><a href="https://www.youtube.com/watch?v=y29Xwt9dET0" target="_blank" rel="noopener noreferrer">Tutorial</a></td>
+<td style="width: 37.9358%; height: 79px;"><a href="https://www.youtube.com/watch?v=mLSFG1IiZZU" target="_blank" rel="noopener noreferrer">Office Hour</a></td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 33.3333%; height: 50px;">Smart Animate</td>
+<td style="width: 33.3333%; height: 50px;"><a href="https://www.youtube.com/watch?v=6Id4INKEwb8" target="_blank" rel="noopener noreferrer">Tutorial</a></td>
+<td style="width: 37.9358%; height: 50px;">-</td>
+</tr>
+<tr style="height: 79px;">
+<td style="width: 33.3333%; height: 79px;">Prototyping &amp; Übergänge</td>
+<td style="width: 33.3333%; height: 79px;"><a href="https://www.youtube.com/watch?v=-d6zNGeF59M" target="_blank" rel="noopener noreferrer">Tutorial</a></td>
+<td style="width: 37.9358%; height: 79px;">-</td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 33.3333%; height: 50px;">Vektorgrafiken</td>
+<td style="width: 33.3333%; height: 50px;"><a href="https://www.youtube.com/watch?v=YGBIc6oJCos" target="_blank" rel="noopener noreferrer">Tutorial 1</a>, <a href="https://www.youtube.com/watch?v=GetLzfMC6H0" target="_blank" rel="noopener noreferrer">Tutorial 2</a></td>
+<td style="width: 37.9358%; height: 50px;"><a href="https://www.youtube.com/watch?v=UUS_SLb-sI4" target="_blank" rel="noopener noreferrer">Office Hour</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 <p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.125em + 0.14063 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Tips &amp; Tricks</span></p>
 <p>Design tools often have a certain learning curve due to their many different areas of application, but in Figma, this is limited to the minimum. The following key combinations and tips for using Figma are helpful for getting started:</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -380,7 +427,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/3/glide.png" alt="" />
@@ -420,7 +467,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/2/bubble.png" alt="" />
@@ -509,7 +556,7 @@
             <category term="Project"/>
             <category term="Code"/>
 
-        <updated>2021-03-02T15:41:02+01:00</updated>
+        <updated>2021-04-19T10:59:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog-en/media/posts/1/garrhet-sampson-CmF_5GYc6c0-unsplash.jpg" alt="" />
